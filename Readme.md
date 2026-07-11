@@ -57,6 +57,10 @@ Provides deeper market segmentation and customer behavior analysis, including:
 - SQL
 - Microsoft Excel
 
+## Tableau Dashboard
+View the interactive dashboard here:
+https://public.tableau.com/app/profile/daan.reddy.a/viz/CarRe_sales/PriceIntelligenceDash
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Visualization
